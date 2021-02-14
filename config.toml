@@ -56,7 +56,7 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Stacey Gillespie"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
@@ -71,16 +71,12 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
 preloader = ""
