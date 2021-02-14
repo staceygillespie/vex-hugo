@@ -64,6 +64,8 @@ logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = ""
 [[params.plugins.css]]
+link = "plugins/DreamBig/DreamBig.css"
+[[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
