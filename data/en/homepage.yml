@@ -72,10 +72,10 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
-  enable: true
+  enable: false
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
