@@ -1,3 +1,9 @@
 .snipcart-checkout {
     display: none;
 }
+.container {
+    max-width: 95% !important;
+}
+.section {
+    padding: 50px 0 !important;
+}
