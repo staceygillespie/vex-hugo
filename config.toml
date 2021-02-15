@@ -56,7 +56,7 @@ contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "412px"
+logo_width = "139px"
 snipcart_api = ""
 [[params.plugins.css]]
 link = "plugins/DreamBig/DreamBig.css"
