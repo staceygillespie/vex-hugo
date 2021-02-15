@@ -2,15 +2,15 @@
 banner:
   enable: true
   title: Dream Big
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: |-
+    Dreaming about getting a DreamBox? I dreamt of buying one for 8 years. Yes, it was on my wish list for a LONG time. It's been such a game changer for me that now I wonder why it took me so long!
+
+    Feel free to use my affiliate code DREAMBIG and you will get $100 off! If you use this code it will give you a discount, but will also give me a little bit of money as well.
   image: "/images/dreambox-open.jpg"
   button:
     enable: true
-    label: Browse All Products
-    link: products
+    label: Go to DreamBox website
+    link: https://www.createroom.com/products/dreambox?ref=5e41eeaf2e1c4
 features:
   enable: true
   title: Our Core Features
