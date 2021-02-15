@@ -9,7 +9,7 @@ banner:
   image: "/images/dreambox-open.jpg"
   button:
     enable: true
-    label: Go to DreamBox website
+    label: Build My DreamBox
     link: https://www.createroom.com/products/dreambox?ref=5e41eeaf2e1c4
 features:
   enable: true
