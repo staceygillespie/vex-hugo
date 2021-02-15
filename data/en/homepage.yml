@@ -12,7 +12,7 @@ banner:
     label: Build My DreamBox
     link: https://www.createroom.com/products/dreambox?ref=5e41eeaf2e1c4
 features:
-  enable: true
+  enable: false
   title: Our Core Features
   image: images/watch-2.png
   left_side:
@@ -42,7 +42,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
@@ -50,7 +50,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
