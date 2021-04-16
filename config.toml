@@ -19,37 +19,29 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.footer]]
 name = "Contact"
 url = "contact"
 weight = 2
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 3
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Blog"
+url = "blog"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "contact"
 weight = 4
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Blog"
+url = "blog"
+weight = 3
 [[menu.main]]
 name = "Products"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 3
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
+name = "Home"
+url = "/"
+weight = 1
 [params]
 author = "Stacey Gillespie"
 contact_form_action = "#"
